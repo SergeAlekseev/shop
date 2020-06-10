@@ -1,0 +1,12 @@
+magaz\config\AppInitializer.class
+magaz\config\HibernateSessionFactoryUtil.class
+magaz\services\GoodsServiceImpl.class
+magaz\DAO\GoodsDAO.class
+magaz\services\GoodsService.class
+magaz\model\MyException.class
+magaz\model\Buyer.class
+magaz\config\SpringConfig.class
+magaz\config\WebConfig.class
+magaz\DAO\GoodsDAOImpl.class
+magaz\model\Goods.class
+magaz\controller\ShopController.class
